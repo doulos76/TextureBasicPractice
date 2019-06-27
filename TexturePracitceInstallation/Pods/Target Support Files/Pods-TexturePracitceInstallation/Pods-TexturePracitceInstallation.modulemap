@@ -1,0 +1,6 @@
+framework module Pods_TexturePracitceInstallation {
+  umbrella header "Pods-TexturePracitceInstallation-umbrella.h"
+
+  export *
+  module * { export * }
+}
